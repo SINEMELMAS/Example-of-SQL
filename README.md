@@ -1,5 +1,4 @@
 # Example-of-SQL
-Here is the entire explanation rewritten in English:
 
 ---
 
